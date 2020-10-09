@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GiphyApplication</string>
+    <string name="title">Title</string>
+    <string name="refresh">Refresh GIFs</string>
+    <string name="saved">My saved GIFs</string>
+    <string name="random">Random GIFs</string>
+    <string name="empty">No saved GIFs</string>
+    <string name="back">Back</string>
+
+</resources>
